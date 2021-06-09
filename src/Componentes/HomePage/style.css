@@ -1,7 +1,9 @@
 .home-page{
-background-color: #12111d;
 display: flex;
 justify-content: center;
 align-items: center;
 flex-wrap: wrap;
+margin: 0 auto;
+background-color: #fff;
+height:100vh;
 }
